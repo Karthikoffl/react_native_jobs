@@ -5,6 +5,17 @@
       "bundler": "metro"
     },
     "name": "jobsift",
-    "slug": "jobsift"
+    "slug": "jobsift",
+    "extra": {
+      "eas": {
+        "projectId": "875a8eea-9a76-418f-b5ad-efd53ac74110"
+      }
+    },
+    "android": {
+      "package": "com.sprint17.jobsift"
+    },
+    "ios": {
+      "bundleIdentifier": "com.sprint17.jobsift"
+    }
   }
 }
